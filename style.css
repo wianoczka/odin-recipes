@@ -1,0 +1,20 @@
+* {
+    background-color: #FEF1E6;
+}
+
+h1 {
+    color: #FFB085;
+    font-size: 52px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+ul {
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #90AACB;
+}
